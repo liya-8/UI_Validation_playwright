@@ -1,0 +1,3 @@
+Title of the book is:Learning JavaScript Design Patterns
+Author of the book is:Addy Osmani
+Publisher of the book is:O'Reilly Media
