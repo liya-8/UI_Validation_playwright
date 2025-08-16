@@ -22,6 +22,7 @@ This repository contains automated UI tests for a Book Store web application usi
 │   
 ├── tests-examples/
 │   └── demo-todo-app.spec.js
+|__ detailsOfBook.txt
 ```
 
 ## Getting Started
@@ -67,8 +68,6 @@ npx playwright show-report
 - config.js file is added to store the app url, user credentials and bookname.
 - Details of books are stored into a file detailsOfBook.txt.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License.
+
+
